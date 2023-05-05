@@ -338,6 +338,23 @@ GenerateClassCluster=0
 DocumentUniqueId=VHXUCBHW
 
 [Document18]
+DocumentPath=Predohraniteli.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WZLEVQGW
+
+[Document19]
 DocumentPath=Rezonatot.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -354,8 +371,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACYNHKNH
 
-[Document19]
-DocumentPath=Predohraniteli.SchLib
+[Document20]
+DocumentPath=кнопки.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -369,7 +386,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WZLEVQGW
+DocumentUniqueId=VOMMHOWE
+
+[Document21]
+DocumentPath=кнопки.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JWVCWEDR
 
 [OutputGroup1]
 Name=Netlist Outputs
