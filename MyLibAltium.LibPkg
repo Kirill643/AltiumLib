@@ -373,7 +373,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ACYNHKNH
 
 [Document20]
-DocumentPath=кнопки.SchLib
+DocumentPath=Кнопки.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -390,7 +390,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VOMMHOWE
 
 [Document21]
-DocumentPath=кнопки.PcbLib
+DocumentPath=Кнопки.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -507,6 +507,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RSOIUFAH
+
+[Document28]
+DocumentPath=Микросхемы_Питания.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IKGBBQLW
 
 [OutputGroup1]
 Name=Netlist Outputs
