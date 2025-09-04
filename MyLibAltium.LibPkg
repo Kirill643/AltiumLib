@@ -288,23 +288,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WDBXFUSY
 
 [Document15]
-DocumentPath=Transistor.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=REZYEXNM
-
-[Document16]
 DocumentPath=Transistor.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -321,7 +304,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FJTUDMFB
 
-[Document17]
+[Document16]
 DocumentPath=Rezonatot.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -338,7 +321,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VHXUCBHW
 
-[Document18]
+[Document17]
 DocumentPath=Predohraniteli.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -355,7 +338,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WZLEVQGW
 
-[Document19]
+[Document18]
 DocumentPath=Rezonatot.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -372,7 +355,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ACYNHKNH
 
-[Document20]
+[Document19]
 DocumentPath=Кнопки.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -389,7 +372,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VOMMHOWE
 
-[Document21]
+[Document20]
 DocumentPath=Кнопки.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -406,7 +389,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWVCWEDR
 
-[Document22]
+[Document21]
 DocumentPath=Модули.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -423,7 +406,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GUBQMQEO
 
-[Document23]
+[Document22]
 DocumentPath=Модули.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -440,7 +423,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FUAXKGRN
 
-[Document24]
+[Document23]
 DocumentPath=Rele.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -457,7 +440,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=WUZSFSOY
 
-[Document25]
+[Document24]
 DocumentPath=Rele.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -474,7 +457,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JJVOUTXP
 
-[Document26]
+[Document25]
 DocumentPath=patchRF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -491,7 +474,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXCEXOVQ
 
-[Document27]
+[Document26]
 DocumentPath=patchRF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -508,7 +491,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RSOIUFAH
 
-[Document28]
+[Document27]
 DocumentPath=Микросхемы_Питания.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -525,7 +508,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=IKGBBQLW
 
-[Document29]
+[Document28]
 DocumentPath=VCO.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -542,7 +525,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QCGTOBBN
 
-[Document30]
+[Document29]
 DocumentPath=VCO.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -558,6 +541,23 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNRGWVHA
+
+[Document30]
+DocumentPath=Transistor.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=REZYEXNM
 
 [OutputGroup1]
 Name=Netlist Outputs
