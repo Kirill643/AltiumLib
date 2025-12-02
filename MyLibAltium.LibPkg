@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WTEVKYMW
 
 [Document2]
-DocumentPath=MEMS.SchLib
+DocumentPath=Mems.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
